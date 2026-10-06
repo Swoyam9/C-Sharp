@@ -1,0 +1,14 @@
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/bin/Debug/net10.0/PersonalDetails
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/bin/Debug/net10.0/PersonalDetails.deps.json
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/bin/Debug/net10.0/PersonalDetails.runtimeconfig.json
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/bin/Debug/net10.0/PersonalDetails.dll
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/bin/Debug/net10.0/PersonalDetails.pdb
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/PersonalDetails.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/PersonalDetails.AssemblyInfoInputs.cache
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/PersonalDetails.AssemblyInfo.cs
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/PersonalDetails.csproj.CoreCompileInputs.cache
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/PersonalDetails.dll
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/refint/PersonalDetails.dll
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/PersonalDetails.pdb
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/PersonalDetails.genruntimeconfig.cache
+/Users/swoyampradhan/Desktop/C#/week1/ConsoleApp1/PersonalDetails/obj/Debug/net10.0/ref/PersonalDetails.dll
