@@ -1,0 +1,14 @@
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.deps.json
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.runtimeconfig.json
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/bin/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfoInputs.cache
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.AssemblyInfo.cs
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.dll
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/refint/VariablesAndDatatypes.dll
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.pdb
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/VariablesAndDatatypes.genruntimeconfig.cache
+/Users/swoyampradhan/Documents/C#/week2/VariablesAndDatatypes/obj/Debug/net10.0/ref/VariablesAndDatatypes.dll
