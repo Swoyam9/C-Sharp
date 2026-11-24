@@ -1,0 +1,14 @@
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.deps.json
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.runtimeconfig.json
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.dll
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/bin/Debug/net10.0/OperatorsAndControlFlow.pdb
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.AssemblyInfoInputs.cache
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.AssemblyInfo.cs
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.csproj.CoreCompileInputs.cache
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.dll
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/refint/OperatorsAndControlFlow.dll
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.pdb
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/OperatorsAndControlFlow.genruntimeconfig.cache
+/Users/swoyampradhan/Documents/C#/week3/OperatorsAndControlFlow/obj/Debug/net10.0/ref/OperatorsAndControlFlow.dll
